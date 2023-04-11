@@ -6,7 +6,7 @@ Bot completely in Russian
 ### Screenshots
 
 <img width="300" alt="Screenshot 2023-01-09 v3" src="https://user-images.githubusercontent.com/118223099/231136438-1bd9fdde-2398-4067-b645-35450069af11.PNG">
-```
+```php
 Choice of one of three categories that represent time periods
 ```
 
