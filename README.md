@@ -5,8 +5,7 @@ Bot completely in Russian
 
 ### Screenshots
 
-<img width="300" alt="Screenshot 2023-01-09 v3" src="https://user-images.githubusercontent.com/118223099/231136438-1bd9fdde-2398-4067-b645-35450069af11.PNG">
-* Choice of one of three categories that represent time periods
+<img width="300" alt="Screenshot 2023-01-09 v3" src="https://user-images.githubusercontent.com/118223099/231136438-1bd9fdde-2398-4067-b645-35450069af11.PNG"> * Choice of one of three categories that represent time periods
 
 <img width="300" alt="Screenshot 2023-01-09 v3" src="https://user-images.githubusercontent.com/118223099/231140548-6f6b7a00-85e9-4394-a7c3-f00ad590e5c1.PNG">
 ```List of cocktails with page selection```
